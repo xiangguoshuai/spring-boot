@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@EnableAutoConfiguration
+@EnableAutoConfiguration 
 @SpringBootApplication
 public class App{ 
 	public static void main(String[] args) { 
