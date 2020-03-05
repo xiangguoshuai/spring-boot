@@ -1,4 +1,4 @@
-package org.spring.boot.user;
+package org.spring.boot.order;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

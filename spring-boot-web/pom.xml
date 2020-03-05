@@ -22,6 +22,6 @@
   </dependencies>
 </dependencyManagement>
   <modules>
-    <module>spring-boot-user</module>
+    <module>spring-boot-order</module>
   </modules>
 </project>

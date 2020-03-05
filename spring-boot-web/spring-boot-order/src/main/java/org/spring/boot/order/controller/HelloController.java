@@ -1,4 +1,4 @@
-package org.spring.boot.user.controller;
+package org.spring.boot.order.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

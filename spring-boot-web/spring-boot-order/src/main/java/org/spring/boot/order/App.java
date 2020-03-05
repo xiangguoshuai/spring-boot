@@ -1,4 +1,4 @@
-package org.spring.boot.user;
+package org.spring.boot.order;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

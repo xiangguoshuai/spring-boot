@@ -8,9 +8,9 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <groupId>com.cn</groupId>
-  <artifactId>spring-boot-user</artifactId>
+  <artifactId>spring-boot-order</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>spring-boot-user</name>
+  <name>spring-boot-order</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
