@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @EnableAutoConfiguration
 @SpringBootApplication
-public class App{
+public class App{ 
 	public static void main(String[] args) { 
 		SpringApplication.run(App.class, args);
 	}
